@@ -1,2 +1,0 @@
-# my-fixes
- page fixes
